@@ -1,6 +1,6 @@
 import AppContext from "./context/contextApi";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-//import "./App.css";
+
 import Feed from "./components/Feed";
 import Header from "./components/Header";
 //import LeftNav from "./components/LeftNav";
